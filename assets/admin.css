@@ -1,0 +1,220 @@
+#admin-not-logged-in-div{
+  width: 600px;
+  padding: 10px;
+}
+
+#admin-not-logged-in-div-img{
+  height: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#admin-not-logged-in-div-msg{
+  margin-top: 20px;
+  font-size: x-large;
+  height: 100%;
+  text-align: center;
+  background: #FF5C5C;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+
+#admin-logged-in-div{
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+}
+
+#admin-plot{
+  display: flex;
+}
+
+#admin-park{
+  display: flex;
+}
+
+#edit-plot-data-div{
+  width: 50%;
+  background: #2c3e50;
+  height: 230px;
+  border-top-left-radius: 20px;
+  padding: 10px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-style:  solid;
+  border-width: 1px;
+  border-color: white;
+  transition: 0.3s;
+}
+
+#edit-plot-data-div:hover{
+  background: #F39C12;
+  color: black;
+}
+
+#edit-park-data-div{
+  width: 50%;
+  background: #2c3e50;
+  height: 230px;
+  padding: 10px;
+  border-bottom-left-radius: 20px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-style:  solid;
+  border-width: 1px;
+  border-color: white;
+  transition: 0.3s;
+}
+
+#edit-park-data-div:hover{
+  background: #F39C12;
+  color: black;
+}
+
+#show-plot-dataset-div{
+  width: 50%;
+  background: #2c3e50;
+  height: 230px;
+  padding: 10px;
+  border-top-right-radius: 20px;
+  color: white;
+  border-style:  solid;
+  border-width: 1px;
+  border-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: 0.3s;
+}
+
+#show-plot-dataset-div:hover{
+  background: #F39C12;
+  color: black;
+}
+
+#show-park-dataset-div{
+  width: 50%;
+  background: #2c3e50;
+  height: 230px;
+  padding: 10px;
+  border-bottom-right-radius: 20px;
+  color: white;
+  border-style:  solid;
+  border-width: 1px;
+  border-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: 0.3s;
+}
+
+#show-park-dataset-div:hover{
+  background: #F39C12;
+  color: black;
+}
+
+
+/*Edit Plot Data Components*/
+#edit-plot-data-div-img{
+  height: 50px;
+  margin-top: 5px;
+}
+
+#edit-plot-data-div-text{
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+#edit-plot-data-div-dist{
+  width: 80%;
+}
+
+#edit-plot-data-div-uid{
+  width: 80%;
+  margin-top: 5px;
+}
+
+#edit-plot-data-div-button{
+  margin-top: 5px;
+  width: 100%;
+}
+
+/*Edit Park Data Components*/
+#edit-park-data-div-img{
+  height: 50px;
+  margin-top: 20px;
+}
+
+#edit-park-data-div-text{
+  margin-bottom: 5px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+#edit-park-data-div-dist{
+  width: 80%;
+}
+
+
+#edit-park-data-div-button{
+  margin-top: 15px;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Show entire plot data */
+#edit-complete-plot-data-div-img{
+  height: 40px;
+  margin-top: 50px;
+}
+
+#edit-complete-plot-data-div-text{
+  margin-bottom: 5px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+#edit-complete-plot-data-div-button{
+  margin-top: 5px;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Show entire park data */
+#edit-complete-park-data-div-img{
+  height: 40px;
+  margin-top: 50px;
+}
+
+#edit-complete-park-data-div-text{
+  margin-bottom: 5px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+#edit-complete-park-data-div-button{
+  margin-top: 5px;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#editplot-link{
+  width: 50%;
+}
+
+#editpark-link{
+  width: 100%;
+}

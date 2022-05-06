@@ -1,0 +1,6 @@
+Title,Path
+Google Earth,http://mt0.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}
+Open Street Map,https://tile.openstreetmap.org/{z}/{x}/{y}.png
+Google Roadmap,http://mt0.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}
+Google Terrain,http://mt0.google.com/vt/lyrs=p&hl=en&x={x}&y={y}&z={z}
+Google Hybrid,http://mt0.google.com/vt/lyrs=y&hl=en&x={x}&y={y}&z={z}

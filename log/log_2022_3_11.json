@@ -1,0 +1,353 @@
+{
+    "date": {
+        "d": 11,
+        "m": 3,
+        "y": 2022
+    },
+    "entries": [
+        {
+            "time": {
+                "h": 14,
+                "m": 45,
+                "s": 54
+            },
+            "user": "admin1",
+            "text": "Logged In",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 2,
+                "s": 13
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_0003_601",
+                    "1": "Stg_0003_601"
+                },
+                "Name of allootte Unit": {
+                    "0": "SUDAMA WOOD PANEL PRIVATE LIMITED ",
+                    "1": "SUDAMA WOOD PANEL PRIVATE LIMITED "
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Sector": {
+                    "0": "3",
+                    "1": " "
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "72994",
+                    "1": " "
+                },
+                "Area at the time of Possession (sq. m)": {
+                    "0": "81412.71",
+                    "1": " "
+                },
+                "Constitution of Organization": {
+                    "0": "Pvt  Ltd.",
+                    "1": " "
+                },
+                "Nature of Project": {
+                    "0": "Manufacturing",
+                    "1": " "
+                },
+                "Proposed Product": {
+                    "0": "Medium density fibre board",
+                    "1": " "
+                },
+                "PCB Category": {
+                    "0": "Red",
+                    "1": " "
+                },
+                "Plot Status ": {
+                    "0": "Allotted",
+                    "1": " "
+                },
+                "Proposed Investment (in cr.)": {
+                    "0": "267",
+                    "1": " "
+                },
+                "Industry Category (based on investment)": {
+                    "0": "Mega",
+                    "1": " "
+                },
+                "Proposed Total Employment": {
+                    "0": "115",
+                    "1": " "
+                },
+                "Name of Contact Person": {
+                    "0": "Mr. Ankit Bansal",
+                    "1": " "
+                },
+                "Contact Number": {
+                    "0": "96541 49102",
+                    "1": " "
+                },
+                "Date of Allotment": {
+                    "0": "01/11/21",
+                    "1": " "
+                },
+                "Lease Deed": {
+                    "0": "Yes",
+                    "1": " "
+                },
+                "Lease Deed Date": {
+                    "0": "22/11/2021  ",
+                    "1": " "
+                },
+                "Possession": {
+                    "0": "Yes",
+                    "1": " "
+                },
+                "Possession Date": {
+                    "0": "22/11/2021  ",
+                    "1": " "
+                },
+                "Type of Plot": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Full Address": {
+                    "0": "219 B , RAMA Market, Village-Pitampura, New Delhi 110034 IN",
+                    "1": " "
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 5,
+                "s": 53
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_0003_601",
+                    "1": "Stg_0003_601"
+                },
+                "Name of allootte Unit": {
+                    "0": "SUDAMA WOOD PANEL PRIVATE LIMITED ",
+                    "1": "SUDAMA WOOD PANEL PRIVATE LIMITED "
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": " ",
+                    "1": "81412.71"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 10,
+                "s": 20
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_0001_10A",
+                    "1": "Stg_0001_10A"
+                },
+                "Name of allootte Unit": {
+                    "0": " ",
+                    "1": " "
+                },
+                "Plot Number": {
+                    "0": "10a",
+                    "1": " "
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "46166.40",
+                    "1": " "
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "46166.40",
+                    "1": "0.0"
+                },
+                "Plot Status ": {
+                    "0": "Vacant",
+                    "1": "N.A"
+                },
+                "Type of Plot": {
+                    "0": "Industrial",
+                    "1": "N.A"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 12,
+                "s": 27
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_0001_10",
+                    "1": "Stg_0001_10"
+                },
+                "Name of allootte Unit": {
+                    "0": " ",
+                    "1": " "
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "101278.77",
+                    "1": "145687"
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "101278.77",
+                    "1": "145687.0"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 15,
+                "s": 30
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_0001_6D",
+                    "1": "Stg_0001_6D"
+                },
+                "Name of allootte Unit": {
+                    "0": " ",
+                    "1": " "
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "48097.74",
+                    "1": "149038.15"
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "48097.74",
+                    "1": "149038.15"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 17,
+                "s": 59
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_0001_6E",
+                    "1": "Stg_0001_6E"
+                },
+                "Name of allootte Unit": {
+                    "0": " ",
+                    "1": " "
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Sector": {
+                    "0": "1",
+                    "1": " "
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "100939.50",
+                    "1": " "
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "100939.50",
+                    "1": "0.0"
+                },
+                "Plot Status ": {
+                    "0": "Vacant",
+                    "1": " "
+                },
+                "Type of Plot": {
+                    "0": "Industrial",
+                    "1": " "
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        }
+    ]
+}

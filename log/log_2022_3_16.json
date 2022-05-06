@@ -1,0 +1,82 @@
+{
+    "date": {
+        "d": 16,
+        "m": 3,
+        "y": 2022
+    },
+    "entries": [
+        {
+            "time": {
+                "h": 10,
+                "m": 26,
+                "s": 57
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_ESIPL_ C8",
+                    "1": "Stg_ESIPL_ C8"
+                },
+                "Name of allootte Unit": {
+                    "0": "Siddhivinayak Solvent LLP",
+                    "1": "Siddhivinayak Solvent LLP"
+                },
+                "Constitution of Organization": {
+                    "0": "Partnership",
+                    "1": "Pvt Limited"
+                },
+                "GST No.": {
+                    "0": "05AEMFS6556D1ZT\r",
+                    "1": " "
+                },
+                "HSN Code of Product": {
+                    "0": "2202, 2106\r",
+                    "1": " "
+                },
+                "Proposed Product": {
+                    "0": "Manufacture of food products and beverages\r",
+                    "1": " "
+                },
+                "PCB Category": {
+                    "0": "Orange",
+                    "1": " "
+                },
+                "email ID": {
+                    "0": "infosvsolvent@gmail.com\r",
+                    "1": " "
+                },
+                "Name of Contact Person": {
+                    "0": "Mr. Umang Agrawal\r",
+                    "1": "Mr. Sanjay Goel"
+                },
+                "Contact Number": {
+                    "0": "7455965430\r",
+                    "1": "9872965817\n"
+                },
+                "Lease Deed Date": {
+                    "0": "8-Nov-21\r",
+                    "1": "5-Aug-16\n"
+                },
+                "Possession Date": {
+                    "0": "27-Nov-09\r",
+                    "1": "21-Aug-14\n"
+                },
+                "Lease Rent Dues (in Rs.)": {
+                    "0": " ",
+                    "1": " 224,514.00 \n"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        }
+    ]
+}

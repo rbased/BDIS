@@ -1,0 +1,391 @@
+{
+    "date": {
+        "d": 27,
+        "m": 1,
+        "y": 2022
+    },
+    "entries": [
+        {
+            "time": {
+                "h": 15,
+                "m": 24,
+                "s": 11
+            },
+            "user": "rbsadmin",
+            "text": "Logged In",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 29,
+                "s": 55
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_S4-31",
+                    "1": "IKP_1_S4-31"
+                },
+                "Name of allootte Unit": {
+                    "0": " ",
+                    "1": " "
+                },
+                "Plot Number": {
+                    "0": "S4-31",
+                    "1": " "
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "7891.37",
+                    "1": "0"
+                },
+                "Area at the time of Possession (sq. m)": {
+                    "0": "7891.37",
+                    "1": " "
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "7891.37",
+                    "1": "0.0"
+                },
+                "Plot Status ": {
+                    "0": "Vacant",
+                    "1": " "
+                },
+                "Type of Plot": {
+                    "0": "Industrial",
+                    "1": " "
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 36,
+                "s": 16
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_Ware House",
+                    "1": "IKP_1_Ware House"
+                },
+                "Name of allootte Unit": {
+                    "0": " ",
+                    "1": " "
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "30472.83",
+                    "1": "75300"
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "30472.83",
+                    "1": "75300.0"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 37,
+                "s": 11
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_Ware House",
+                    "1": "IKP_1_Ware House"
+                },
+                "Name of allootte Unit": {
+                    "0": " ",
+                    "1": " "
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "30472.83",
+                    "1": "30472.83"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 42,
+                "s": 26
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_S4-30",
+                    "1": "IKP_1_S4-30"
+                },
+                "Name of allootte Unit": {
+                    "0": " ",
+                    "1": " "
+                },
+                "Plot Number": {
+                    "0": "S4-30",
+                    "1": " "
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "8093.71",
+                    "1": "0"
+                },
+                "Area at the time of Possession (sq. m)": {
+                    "0": "8093.71",
+                    "1": " "
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "8093.71",
+                    "1": "0.0"
+                },
+                "Plot Status ": {
+                    "0": "Vacant ",
+                    "1": " "
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 51,
+                "s": 41
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_CETP",
+                    "1": "IKP_1_CETP"
+                },
+                "Name of allootte Unit": {
+                    "0": "-",
+                    "1": "-"
+                },
+                "Plot Number": {
+                    "0": "S4-29",
+                    "1": "CETP"
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "10117.1",
+                    "1": " "
+                },
+                "Area at the time of Possession (sq. m)": {
+                    "0": "10117.1",
+                    "1": " "
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "10117.1",
+                    "1": "0.0"
+                },
+                "Nature of Project": {
+                    "0": " ",
+                    "1": "Plot Vacant"
+                },
+                "Industry Category (based on investment)": {
+                    "0": " ",
+                    "1": "Plot Vacant"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 16,
+                "m": 10,
+                "s": 34
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_CETP",
+                    "1": "IKP_1_CETP"
+                },
+                "Name of allootte Unit": {
+                    "0": "-",
+                    "1": "-"
+                },
+                "Plot Number": {
+                    "0": "S4-28",
+                    "1": "S4-29"
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "22945.68",
+                    "1": "10117.1"
+                },
+                "Area at the time of Possession (sq. m)": {
+                    "0": "22945.68",
+                    "1": "10117.1"
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "22945.68",
+                    "1": "10117.1"
+                },
+                "Type of Plot": {
+                    "0": "Industrial",
+                    "1": " "
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 16,
+                "m": 13,
+                "s": 35
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_CETP",
+                    "1": "IKP_1_CETP"
+                },
+                "Name of allootte Unit": {
+                    "0": "-",
+                    "1": "-"
+                },
+                "Plot Number": {
+                    "0": "S4-28(CETP)",
+                    "1": "S4-28"
+                },
+                "Plot Status ": {
+                    "0": "Reserved",
+                    "1": "Vacant"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 16,
+                "m": 19,
+                "s": 26
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_S4-7",
+                    "1": "IKP_1_S4-7"
+                },
+                "Name of allootte Unit": {
+                    "0": "-",
+                    "1": "-"
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "6077",
+                    "1": "7912"
+                },
+                "Area at the time of Possession (sq. m)": {
+                    "0": "6077",
+                    "1": " "
+                },
+                "Nature of Project": {
+                    "0": " ",
+                    "1": "Plot Vacant"
+                },
+                "Industry Category (based on investment)": {
+                    "0": " ",
+                    "1": "Plot Vacant"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        }
+    ]
+}

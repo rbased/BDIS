@@ -1,0 +1,144 @@
+{
+    "date": {
+        "d": 25,
+        "m": 1,
+        "y": 2022
+    },
+    "entries": [
+        {
+            "time": {
+                "h": 16,
+                "m": 22,
+                "s": 28
+            },
+            "user": "rbsadmin",
+            "text": "Logged In",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 16,
+                "m": 30,
+                "s": 39
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_Ware House",
+                    "1": "IKP_1_Ware House"
+                },
+                "Name of allootte Unit": {
+                    "0": " ",
+                    "1": " "
+                },
+                "Plot Number": {
+                    "0": "S4-32",
+                    "1": " "
+                },
+                "Land Use": {
+                    "0": "Utility",
+                    "1": " "
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "75300",
+                    "1": " "
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 16,
+                "m": 33,
+                "s": 17
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_Ware House",
+                    "1": "IKP_1_Ware House"
+                },
+                "Name of allootte Unit": {
+                    "0": " ",
+                    "1": " "
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": "Utility"
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "75300",
+                    "1": "0.0"
+                },
+                "Type of Plot": {
+                    "0": "Utility",
+                    "1": "Industrial"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 16,
+                "m": 35,
+                "s": 24
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_Ware House",
+                    "1": "IKP_1_Ware House"
+                },
+                "Name of allootte Unit": {
+                    "0": " ",
+                    "1": " "
+                },
+                "Plot Status ": {
+                    "0": "N.A",
+                    "1": "Reserved"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 16,
+                "m": 38,
+                "s": 52
+            },
+            "user": "rbsadmin",
+            "text": "Logged Out",
+            "dict_present": 0
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+html, body {
+  margin:0px;
+  height: 100%;
+  background-color: #ffffff;
+  font-family: 'Tajawal', sans-serif;
+}
+
+#main-container{
+  height: 100vh;
+  position: relative;
+  display: flex;
+  flex-flow: column;
+}
+
+#heading-navbar{
+  /*height: 68px;*/
+  background-color: #ffffff;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  flex: 0 1 68px;
+}
+
+#link-navbar{
+  /*height: 5%;*/
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-color: #2c3e50;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  flex: 0 1 40px;
+}
+
+#main-header{
+  background-color: none;
+  font-weight: bold;
+  font-size: xx-large;
+  color: black;
+  display: block;
+  padding-top: 10px;
+  margin-bottom: auto;
+  margin-left: 20px;
+  font-family: 'Tajawal', sans-serif;
+  width: 80%;
+}
+
+#link-buttons-container{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.link-button{
+  width: 100%;
+  font-size: medium;
+  border-radius: 0;
+}
+
+#main-content{
+  background-color: white;
+  height: 86%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1 1 auto;
+}
+
+#loading-image{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  height: 100px;
+}
+
+#rbs-logo-mainnav{
+  height: 50px;
+
+}
+
+#giz-logo-mainnav{
+  height: 50px;
+
+}
+
+#main-header-col-container{
+  width: 80%;
+}
+
+#rbs-logo-col-container{
+  width: 5%;
+}
+
+#rbs-logo{
+  height: 60px;
+  position: absolute;
+  top: 4px;
+  right: 10px;
+}
+
+#giz-logo{
+  height: 50px;
+  position: absolute;
+  top: 10px;
+  right: 85px;
+}
+
+#ukpcb-logo{
+  height: 50px;
+  position: absolute;
+  top: 10px;
+  right: 165px;
+  display: none;
+
+}
+
+#siidcul-logo{
+  height: 60px;
+  position: absolute;
+  top: 4px;
+  right: 235px;
+
+}
+
+#page-under-construction{
+  font-size: x-large;
+  text-align: center;
+  width: 100%;
+  margin-top: 50px;
+
+}

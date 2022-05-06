@@ -1,0 +1,19 @@
+{
+    "date": {
+        "d": 2,
+        "m": 5,
+        "y": 2022
+    },
+    "entries": [
+        {
+            "time": {
+                "h": 11,
+                "m": 21,
+                "s": 51
+            },
+            "user": "Harikesh",
+            "text": "Logged In",
+            "dict_present": 0
+        }
+    ]
+}

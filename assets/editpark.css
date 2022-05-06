@@ -1,0 +1,63 @@
+#park-edit-dataset-container{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 95%;
+  width: 97%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+}
+
+#edit-park-details-header{
+  background: #df4b3d;
+  color: white;
+  flex: 0 1 40px;
+  display: flex;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding: 0;
+}
+
+#edit-park-details-datatable{
+  flex: 1 1 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  overflow: auto;
+  padding: 10px;
+  justify-content: center;
+}
+
+#edit-park-details-header-text{
+  width: 30%;
+  position: relative;
+  top: 8px;
+  left: 20px;
+  font-size: large;
+}
+
+#edit-park-header-buttons{
+  display: block;
+  float: right;
+  width: 70%;
+  padding-right: 5px;
+}
+
+#edit-park-save{
+  display: block;
+  float: right;
+  height: 40px;
+  margin-right: 5px;
+  border-radius: 0;
+  background: #df4b3d;
+  width: 40px;
+  border-color: #df4b3d;
+}
+
+#edit-park-save-toast{
+  width: 98%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}

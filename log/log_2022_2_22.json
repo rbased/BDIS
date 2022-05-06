@@ -1,0 +1,19 @@
+{
+    "date": {
+        "d": 22,
+        "m": 2,
+        "y": 2022
+    },
+    "entries": [
+        {
+            "time": {
+                "h": 15,
+                "m": 16,
+                "s": 53
+            },
+            "user": "UKDIS_Admin1",
+            "text": "Logged In",
+            "dict_present": 0
+        }
+    ]
+}

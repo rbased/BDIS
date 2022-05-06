@@ -1,0 +1,29 @@
+{
+    "date": {
+        "d": 28,
+        "m": 2,
+        "y": 2022
+    },
+    "entries": [
+        {
+            "time": {
+                "h": 13,
+                "m": 1,
+                "s": 43
+            },
+            "user": "rbsadmin",
+            "text": "Logged In",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 13,
+                "m": 2,
+                "s": 7
+            },
+            "user": "rbsadmin",
+            "text": "Logged Out",
+            "dict_present": 0
+        }
+    ]
+}

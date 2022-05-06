@@ -1,0 +1,129 @@
+{
+    "date": {
+        "d": 29,
+        "m": 3,
+        "y": 2022
+    },
+    "entries": [
+        {
+            "time": {
+                "h": 2,
+                "m": 22,
+                "s": 32
+            },
+            "user": "Superuser",
+            "text": "Deleted User admin1",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 2,
+                "m": 23,
+                "s": 5
+            },
+            "user": "Superuser",
+            "text": "Deleted User rbsadmin",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 2,
+                "m": 23,
+                "s": 24
+            },
+            "user": "Superuser",
+            "text": "Deleted User Beena_UKDIS",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 2,
+                "m": 23,
+                "s": 39
+            },
+            "user": "Superuser",
+            "text": "Deleted User Rajesh_UKDIS",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 2,
+                "m": 23,
+                "s": 54
+            },
+            "user": "Superuser",
+            "text": "Deleted User UKDIS_Admin1",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 2,
+                "m": 24,
+                "s": 32
+            },
+            "user": "Superuser",
+            "text": "Deleted User Admin_RBS",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 2,
+                "m": 24,
+                "s": 45
+            },
+            "user": "Superuser",
+            "text": "Deleted User UKDIS_Admin3",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 2,
+                "m": 24,
+                "s": 57
+            },
+            "user": "Superuser",
+            "text": "Deleted User UKDIS_Admin2",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 2,
+                "m": 27,
+                "s": 7
+            },
+            "user": "Superuser",
+            "text": "Created User admin",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 12,
+                "m": 4,
+                "s": 56
+            },
+            "user": "manaruchi",
+            "text": "Logged In",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 12,
+                "m": 13,
+                "s": 44
+            },
+            "user": "manaruchi",
+            "text": "Logged Out",
+            "dict_present": 0
+        },
+        {
+            "time": {
+                "h": 12,
+                "m": 14,
+                "s": 50
+            },
+            "user": "manaruchi",
+            "text": "Logged In",
+            "dict_present": 0
+        }
+    ]
+}

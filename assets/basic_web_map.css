@@ -1,0 +1,390 @@
+#basic-leaflet-map-container{
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+#viewport-overlay{
+  z-index: 1000;
+  position: absolute;
+  bottom: 10px;
+  left: 5px;
+  background-color: white;
+  height: 30px;
+  width: 600px;
+  opacity: 1;
+  font-size: medium;
+  display: none;
+}
+
+#search-bar-overlay{
+  z-index: 1000;
+  position: absolute;
+  top: 115px;
+  left: 5px;
+  background-color: #303030;
+  height: 170px;
+  width: 250px;
+  opacity: 1;
+  font-size: medium;
+  border-radius: 5px;
+  color: white;
+  display: flex;
+  padding: 5px;
+}
+
+#test-overlay{
+  z-index: 1000;
+  position: absolute;
+  top: 285px;
+  right: 500px;
+  background-color: white;
+  height: 50px;
+  width: 400px;
+  opacity: 1;
+  font-size: medium;
+  border-radius: 5px;
+  color: black;
+  display: flex;
+  padding: 5px;
+}
+
+#query-overlay{
+  z-index: 999;
+  position: absolute;
+  top: 287px;
+  left: 5px;
+  background-color: #303030;
+  height: 400px;
+  width: 300px;
+  opacity: 1;
+  font-size: medium;
+  color: white;
+  display: none;
+  padding: 0;
+  flex-direction: column;
+  border-radius: 10px;
+}
+
+#adv-query-heading{
+  font-size: large;
+  background-color: #303030;
+}
+
+#adv-query-controls{
+  padding: 20px;
+  overflow: auto;
+  background-color: #303030;
+}
+
+#adv-query-footer{
+  background-color: #303030;
+  padding: 5px;
+}
+
+#apply-filter-button{
+  display: block;
+  margin-left: auto;
+  width: 100%;
+}
+
+#dropdown-area-search-bar{
+  flex: 5;
+}
+
+
+
+#district-dropdown{
+  margin-bottom: 5px;
+  font-size: small;
+  color: black;
+}
+
+#park-selector{
+  font-size: small;
+  color: black;
+  margin-bottom: 5px;
+}
+
+#sector-selector{
+  font-size: small;
+  color: black;
+  margin-bottom: 5px;
+}
+
+#home-industry-dropdown{
+  font-size: small;
+  color: black;
+}
+
+#query-toggle{
+  background-color: #303030;
+  margin-right: 5px;
+  height: 100%;
+  border-color: #303030;
+  width: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 26px;
+}
+
+#query-toggle:hover{
+  background-color: orange;
+  color: black;
+}
+
+#basic-details-container{
+  min-width: 15%;
+  max-width: 25%;
+  height: 100%;
+  overflow: hidden;
+  resize: horizontal;
+  direction: rtl;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display: none;
+}
+
+#basic-table-container{
+  height: 50%;
+  overflow: hidden;
+  display: none;
+}
+
+#basic-table-header{
+  background-color: #df4b3d;
+  color: white;
+  font-size: large;
+  padding: 0;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+}
+
+#basic-table-content{
+  height: 80%;
+  overflow: auto;
+}
+
+#basic-table-header-text{
+  flex: 1 1 auto;
+  width: 89%;
+  margin: 5px;
+  margin-top: 8px;
+}
+
+#basic-table-header-butt-grp{
+  flex: 0 0 130px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+#basic-table-header-close{
+  background-color: #df4b3d;
+  border-color: #df4b3d;
+  margin: 1px;
+  width: 40px;
+  height: 40px;
+}
+
+#basic-table-header-edit{
+  background-color: #df4b3d;
+  border-color: #df4b3d;
+  margin: 1px;
+  width: 40px;
+  height: 40px;
+}
+
+#basic-table-header-download{
+  background-color: #df4b3d;
+  border-color: #df4b3d;
+  margin: 1px;
+  width: 40px;
+  height: 40px;
+}
+
+.table-header{
+  font-weight: bold;
+  background-color: #7b8a8b;
+  color: white;
+}
+
+.details-table{
+  font-size: small;
+  table-layout: auto;
+}
+
+/* Filter Results Panel Styles*/
+
+#basic-filter-results-header{
+  background-color: #303030;
+  color: white;
+  font-size: large;
+  padding: 0;
+  height: 42px;
+  direction: ltr;
+  display: flex;
+  flex-direction: row;
+}
+
+#basic-filter-results-content{
+  height: 94%;
+  overflow: auto;
+  direction: ltr;
+  padding: 5px;
+}
+
+#basic-filter-header-text{
+  flex: 1 1 auto;
+  margin: 5px;
+  margin-top: 8px;
+}
+
+#fil-res-but-grp{
+  flex: 0 0 85px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+#basic-filter-header-close{
+  background-color: #303030;
+  border-color: #303030;
+  margin: 1px;
+  margin-right: 5px;
+  width: 35px;
+}
+
+
+#basic-filter-header-download{
+  background-color: #303030;
+  border-color: #303030;
+  margin: 1px;
+  width: 35px;
+}
+
+.filtered-details-content-main{
+  padding: 10px;
+  border: 2px solid #A7A8AB;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.filtered-details-content-company{
+  width: 100%;
+  text-align: left;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.filtered-details-content-company:hover{
+  color: white;
+  background-color: green;
+  border-radius: 5px;
+
+}
+
+.filtered-details-content-industry{
+  color: blue;
+  cursor: pointer;
+}
+
+.filtered-details-content-industry:hover{
+  font-weight: bold;
+}
+
+#home-industry-dropdown-container{
+  position: absolute;
+  top: 112px;
+  left: 5px;
+  width: 250px;
+  background: #303030;
+  z-index: 1200;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#home-industry-dropdown{
+  font-size: small;
+  cursor: pointer;
+}
+
+#home-filter-caption{
+  font-size: x-small;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#loading-image-modal{
+  height: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#park-modal{
+  position: absolute;
+  right: 5px;
+  top: 90px;
+  width: 500px;
+  height: 600px;
+}
+
+#park-modal-header{
+  display: inline-block;
+  width: 420px;
+}
+
+#close-park-modal{
+  display: inline-block;
+  margin-left: auto;
+  background: #2c3e50;
+  border: 1px solid #2c3e50;
+}
+
+#park-modal-header-container{
+  display: flex;
+}
+
+#park-modal-header-text{
+  font-weight: bold;
+  font-size: 18px;
+  color: white;
+}
+
+#park-modal-header-edit{
+  margin-left: 20px;
+}
+
+.park-modal-details{
+  border: 2px solid black;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  background: white;
+}
+
+.park-modal-details:hover{
+
+}
+
+.park-modal-summary{
+
+}
+
+.park-modal-summary:hover{
+  color: #2c3e50;
+  font-weight: bold;
+}
+
+.park-modal-backdrop{
+  background-color: rgba(0,0,0,.0001) !important;
+}
+
+#close-park-modal{
+  display: none;
+}

@@ -1,0 +1,42 @@
+{
+    "date": {
+        "d": 19,
+        "m": 2,
+        "y": 2022
+    },
+    "entries": [
+        {
+            "time": {
+                "h": 10,
+                "m": 22,
+                "s": 57
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_0003_96",
+                    "1": "Stg_0003_96"
+                },
+                "Name of allootte Unit": {
+                    "0": "SURINDER KUMAR SACHDEVA (Prop. Supreme Auto International)",
+                    "1": "SURINDER KUMAR SACHDEVA (Prop. Supreme Auto International)"
+                },
+                "Type of Ownership/Tenant/Other": {
+                    "0": " ",
+                    "1": ""
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        }
+    ]
+}

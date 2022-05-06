@@ -1,0 +1,46 @@
+{
+    "date": {
+        "d": 21,
+        "m": 3,
+        "y": 2022
+    },
+    "entries": [
+        {
+            "time": {
+                "h": 12,
+                "m": 25,
+                "s": 26
+            },
+            "user": "rbsadmin",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "IKP_1_S1-10",
+                    "1": "IKP_1_S1-10"
+                },
+                "Name of allootte Unit": {
+                    "0": "-",
+                    "1": "-"
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "2466",
+                    "1": "2566"
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "2466",
+                    "1": "2566.0"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,542 @@
+{
+    "date": {
+        "d": 15,
+        "m": 3,
+        "y": 2022
+    },
+    "entries": [
+        {
+            "time": {
+                "h": 12,
+                "m": 30,
+                "s": 53
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_ESIPL_C2",
+                    "1": "Stg_ESIPL_C2"
+                },
+                "Name of allootte Unit": {
+                    "0": "Balaji Action Buildwell",
+                    "1": "Balaji Action Buildwell"
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Area at the time of Possession (sq. m)": {
+                    "0": "52111.85",
+                    "1": " "
+                },
+                "Nature of Project": {
+                    "0": "Manufacturing",
+                    "1": " "
+                },
+                "GST No.": {
+                    "0": "05AAHFB6176D1ZN\r",
+                    "1": " "
+                },
+                "HSN Code of Product": {
+                    "0": "4410, 4411 & 4418\r",
+                    "1": " "
+                },
+                "Proposed Product": {
+                    "0": "PARTCLE BORD AND SMLR BORD OF WOOD OTHER LIGNUS MATRLS W/N AGLOMRTD WITH RESIN OR OTHR, FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES\r",
+                    "1": " "
+                },
+                "PCB Category": {
+                    "0": "Red",
+                    "1": " "
+                },
+                "Plot Status ": {
+                    "0": "Under construction",
+                    "1": "Allotted"
+                },
+                "email ID": {
+                    "0": "ho@actiontesa.com",
+                    "1": "davindersethi@skytone.in, davinderssethi@gmail.com"
+                },
+                "Name of Contact Person": {
+                    "0": "Mr. Pradeep Gulati \r",
+                    "1": " "
+                },
+                "Contact Number": {
+                    "0": "83929281623\r",
+                    "1": "9810123558"
+                },
+                "Lease Deed Date": {
+                    "0": "7-Jul-21\r",
+                    "1": "16-Mar-2007"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 12,
+                "m": 31,
+                "s": 40
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_ESIPL_C2",
+                    "1": "Stg_ESIPL_C2"
+                },
+                "Name of allootte Unit": {
+                    "0": "Balaji Action Buildwell",
+                    "1": "Balaji Action Buildwell"
+                },
+                "GST No.": {
+                    "0": "05AAHFB6176D1ZN\r",
+                    "1": "05AAHFB6176D1ZN\n"
+                },
+                "HSN Code of Product": {
+                    "0": "4410, 4411 & 4418\r",
+                    "1": "4410, 4411 & 4418\n"
+                },
+                "Proposed Product": {
+                    "0": "PARTCLE BORD AND SMLR BORD OF WOOD OTHER LIGNUS MATRLS W/N AGLOMRTD WITH RESIN OR OTHR, FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES\r",
+                    "1": "PARTCLE BORD AND SMLR BORD OF WOOD OTHER LIGNUS MATRLS W/N AGLOMRTD WITH RESIN OR OTHR, FIBRE BOARD OF WOOD OR OTHER LIGNEOUS MATERIALS, WHETHER OR NOT BONDED WITH RESINS OR OTHER ORGANIC SUBSTANCES\n"
+                },
+                "Name of Contact Person": {
+                    "0": "Mr. Pradeep Gulati \r",
+                    "1": "Mr. Pradeep Gulati \n"
+                },
+                "Contact Number": {
+                    "0": "83929281623\r",
+                    "1": "83929281623\n"
+                },
+                "Lease Deed Date": {
+                    "0": "7-Jul-21\r",
+                    "1": "7-Jul-21\n"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 12,
+                "m": 37,
+                "s": 3
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {},
+                "UID": {},
+                "Name of allootte Unit": {}
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 12,
+                "m": 49,
+                "s": 23
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_ESIPL_502",
+                    "1": "Stg_ESIPL_502"
+                },
+                "Name of allootte Unit": {
+                    "0": "P  N SAFETECH PRIVATE LIMITED",
+                    "1": "P  N SAFETECH PRIVATE LIMITED"
+                },
+                "Constitution of Organization": {
+                    "0": "Pvt Ltd",
+                    "1": "Partnership"
+                },
+                "GST No.": {
+                    "0": "05AABCP4411C2Z4\r",
+                    "1": "05AAIFK1035D1ZX"
+                },
+                "HSN Code of Product": {
+                    "0": "8530\r",
+                    "1": "6403"
+                },
+                "Proposed Product": {
+                    "0": "Manufacture of other electrical equip ment n.e.c.\r",
+                    "1": "FTWEAR WTH OUTR SOLES OF RUBR,PLSTCS, LTHR/CMPSTN LTHR & UPPRS OF LTHR"
+                },
+                "Date of Allotment": {
+                    "0": "9-Aug-06\r",
+                    "1": "09-Aug-2006"
+                },
+                "Lease Deed Date": {
+                    "0": "14-Sep-18\r",
+                    "1": "21-Feb-2009"
+                },
+                "Possession": {
+                    "0": " ",
+                    "1": "Yes"
+                },
+                "Possession Date": {
+                    "0": " ",
+                    "1": "03-Oct-2006"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 12,
+                "m": 55,
+                "s": 38
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_ESIPL_B211",
+                    "1": "Stg_ESIPL_B211"
+                },
+                "Name of allootte Unit": {
+                    "0": "Shri Shyam Paper Tube and Core Industries",
+                    "1": "Shri Shyam Paper Tube and Core Industries"
+                },
+                "Land Use": {
+                    "0": "Industrial",
+                    "1": " "
+                },
+                "Nature of Project": {
+                    "0": "Manufacturing",
+                    "1": "N.A"
+                },
+                "GST No.": {
+                    "0": "05AEIFS1998D1ZT\r",
+                    "1": " "
+                },
+                "HSN Code of Product": {
+                    "0": "4823\r",
+                    "1": "48229010"
+                },
+                "Proposed Product": {
+                    "0": "MFG. of paper tube and angle board\r",
+                    "1": "Other: Paper tubes"
+                },
+                "PCB Category": {
+                    "0": "Orange",
+                    "1": "N.A"
+                },
+                "email ID": {
+                    "0": "shrishyampapertubeandcoreindus@gmail.com\r",
+                    "1": "shrishyampapertubeandcoreindustries@gmail.com, madhokjain@yahoo.com"
+                },
+                "Name of Contact Person": {
+                    "0": "Mr. Vinod Agrawal\r",
+                    "1": " "
+                },
+                "Contact Number": {
+                    "0": "9837639001, 9528023466\r",
+                    "1": "9837639001, 9810261820"
+                },
+                "Lease Deed Date": {
+                    "0": "9-Feb-21\r",
+                    "1": "29-Jan-2007"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 13,
+                "m": 0,
+                "s": 34
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_ESIPL_4963",
+                    "1": "Stg_ESIPL_4963"
+                },
+                "Name of allootte Unit": {
+                    "0": "Ram Vasistha",
+                    "1": "Ram Vasistha"
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "135.5\r",
+                    "1": "136"
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "135.5\r",
+                    "1": "136.0"
+                },
+                "Nature of Project": {
+                    "0": "Proprietor",
+                    "1": " "
+                },
+                "Plot Status ": {
+                    "0": "Allotted",
+                    "1": "Vacant"
+                },
+                "email ID": {
+                    "0": "ram.vasistha@gmail.com\r",
+                    "1": " "
+                },
+                "Name of Contact Person": {
+                    "0": "Mr. Ram Vasistha",
+                    "1": " "
+                },
+                "Contact Number": {
+                    "0": "9639966677\r",
+                    "1": " "
+                },
+                "Date of Allotment": {
+                    "0": "26-Oct-20\r",
+                    "1": " "
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 13,
+                "m": 5,
+                "s": 20
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_ESIPL_A196",
+                    "1": "Stg_ESIPL_A196"
+                },
+                "Name of allootte Unit": {
+                    "0": "Setco Auto Systems Private Limited\r",
+                    "1": "Setco Auto Systems Private Limited\r"
+                },
+                "Plot Number": {
+                    "0": "\r",
+                    "1": "A196"
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "11169\r",
+                    "1": "7119"
+                },
+                "Area at the time of Possession (sq. m)": {
+                    "0": "11169\r",
+                    "1": "7119"
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "11169\r",
+                    "1": "7119.0"
+                },
+                "Type of Ownership/Tenant/Other": {
+                    "0": "\r",
+                    "1": " "
+                },
+                "Constitution of Organization": {
+                    "0": "Pvt. Ltd",
+                    "1": "Public Limited"
+                },
+                "GST No.": {
+                    "0": "05AADCT6512A1ZX\r",
+                    "1": "05AAACG7777K1Z7"
+                },
+                "HSN Code of Product": {
+                    "0": "28140\r",
+                    "1": "87089300"
+                },
+                "Proposed Product": {
+                    "0": "Clutch Plate\r",
+                    "1": "Automobile"
+                },
+                "PCB Category": {
+                    "0": "Orange",
+                    "1": "N.A"
+                },
+                "email ID": {
+                    "0": "vyadav@setcoauto.com\r",
+                    "1": "jgautaam@setcoauto.com"
+                },
+                "Name of Contact Person": {
+                    "0": "Mr. V Yadav",
+                    "1": " "
+                },
+                "Contact Number": {
+                    "0": "9557098383\r",
+                    "1": "9759700872"
+                },
+                "Date of Allotment": {
+                    "0": "30-Apr-07\r",
+                    "1": "30-Apr-2007"
+                },
+                "Lease Deed Date": {
+                    "0": "6-Nov-08\r",
+                    "1": "11-Jun-2008"
+                },
+                "Possession Date": {
+                    "0": "21-May-14\r",
+                    "1": "23-Sep-2008"
+                },
+                "Comment": {
+                    "0": "\r",
+                    "1": " "
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 13,
+                "m": 22,
+                "s": 14
+            },
+            "user": "admin1",
+            "file": "plot-details",
+            "text": "Edited Plot Data.",
+            "dict_present": 1,
+            "changedict": {
+                "File": {
+                    "0": "Original",
+                    "1": "Edited"
+                },
+                "UID": {
+                    "0": "Stg_ESIPL_A196",
+                    "1": "Stg_ESIPL_A196"
+                },
+                "Name of allootte Unit": {
+                    "0": "Setco Auto Systems Private Limited\r",
+                    "1": "Setco Auto Systems Private Limited\r"
+                },
+                "Plot Number": {
+                    "0": "\r",
+                    "1": "\n"
+                },
+                "Area at the time of allotment (sq. m)": {
+                    "0": "11169\r",
+                    "1": "11169\n"
+                },
+                "Area at the time of Possession (sq. m)": {
+                    "0": "11169\r",
+                    "1": "11169\n"
+                },
+                "Geometric Area (in Sq. Mtr.)": {
+                    "0": "11169\r",
+                    "1": "11169.0"
+                },
+                "Type of Ownership/Tenant/Other": {
+                    "0": "\r",
+                    "1": "\n"
+                },
+                "GST No.": {
+                    "0": "05AADCT6512A1ZX\r",
+                    "1": "05AADCT6512A1ZX\n"
+                },
+                "HSN Code of Product": {
+                    "0": "28140\r",
+                    "1": "28140\n"
+                },
+                "Proposed Product": {
+                    "0": "Clutch Plate\r",
+                    "1": "Clutch Plate\n"
+                },
+                "email ID": {
+                    "0": "vyadav@setcoauto.com\r",
+                    "1": "vyadav@setcoauto.com\n"
+                },
+                "Contact Number": {
+                    "0": "9557098383\r",
+                    "1": "9557098383\n"
+                },
+                "Date of Allotment": {
+                    "0": "30-Apr-07\r",
+                    "1": "30-Apr-07\n"
+                },
+                "Lease Deed Date": {
+                    "0": "6-Nov-08\r",
+                    "1": "6-Nov-08\n"
+                },
+                "Possession Date": {
+                    "0": "21-May-14\r",
+                    "1": "21-May-14\n"
+                },
+                "Comment": {
+                    "0": "\r",
+                    "1": "\n"
+                }
+            },
+            "col_to_keep": [
+                "UID",
+                "Name of allootte Unit"
+            ]
+        },
+        {
+            "time": {
+                "h": 15,
+                "m": 29,
+                "s": 57
+            },
+            "user": "rbsadmin",
+            "text": "Logged In",
+            "dict_present": 0
+        }
+    ]
+}

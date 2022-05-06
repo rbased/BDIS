@@ -1,0 +1,43 @@
+#user-container{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 86%;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+}
+
+#user-header{
+  background: #303030;
+  color: white;
+  flex: 0 1 40px;
+  display: flex;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding: 0;
+  width: 100%;
+}
+
+#user-header-text{
+  font-size: medium;
+  position: relative;
+  top: 8px;
+  left: 10px;
+}
+
+#user-save{
+  display: box;
+  margin-left: auto;
+  background: #303030;
+  border-color: #303030;
+}
+
+#user-details-datatable{
+  flex: 1 1 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  overflow: auto;
+  padding: 10px;
+  justify-content: center;
+}

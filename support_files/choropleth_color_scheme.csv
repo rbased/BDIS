@@ -1,0 +1,15 @@
+Class,Color
+Allotted,#9fbd3f
+Cancelled,#c75462
+Closed,#e7a227
+Encroachment,#c79582
+In Production,#5c3b68
+Litigated,#596c41
+Others,#787979
+Construction Stop,#f0c816
+Construction not started,#c15495
+Working,#755243
+Under Construction,#b62e38
+Vacant,#323232
+N.A,#f5f5f0
+NA,#f5f5f0

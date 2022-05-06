@@ -1,0 +1,139 @@
+#log-container{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 600px;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+
+#log-header{
+  background: #303030;
+  color: white;
+  flex: 0 0 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#log-details-header-text{
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: medium;
+  font-weight: bold;
+}
+
+#log-content{
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  display: flex;
+}
+
+#log-content-sidebar{
+  flex: 0 0 200px;
+  background: #d9dbdb;
+  padding: 20px;
+  height: 100%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#log-content-list-main{
+  height: 600px;
+  width: 100%;
+  overflow: auto;
+}
+
+#log-content-list{
+  flex: 1 1 auto;
+  padding: 10px;
+  overflow: auto;
+  height: 100%;
+}
+
+#log-show-log{
+  margin-top: 20px;
+  width: 100%;
+}
+
+.log-details{
+  border: 2px solid #c2c7cf;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #f7c052;
+}
+
+.log-details:hover{
+  background: #c2c7cf;
+}
+
+.log-summary{
+
+}
+
+.log-only-text{
+  border: 2px solid #c2c7cf;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.log-only-text:hover{
+  background: #c2c7cf;
+}
+
+.log-only-text-login{
+  border: 2px solid #c2c7cf;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #52eb3b;
+}
+
+.log-only-text-login:hover{
+  background: #c2c7cf;
+}
+
+.log-only-text-logout{
+  border: 2px solid #c2c7cf;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #f05d5d;
+}
+
+.log-only-text-logout:hover{
+  background: #c2c7cf;
+}
+
+
+.log-table{
+  border: 1px solid grey;
+  margin: 10px;
+  font-size: small;
+}
+
+.log-table-h{
+  border: 1px solid grey;
+  padding: 5px;
+  background: black;
+  color: white;
+}
+
+.log-table-d{
+  border: 1px solid grey;
+  padding: 5px;
+}
+
+.log-table-r{
+  border: 1px solid grey;
+}
+
+.log-table-container{
+  width: 100%;
+  overflow: auto;
+}
